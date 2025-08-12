@@ -23,6 +23,7 @@
 ---
 
 ### 📌 Projetos em Destaque
+- [**StudMor**](https://github.com/offjune/StudMor) - Aplicação em Python com interface gráfica para baixar, converter e transcrever áudio de vídeos do YouTube com Whisper.
 - [**To-Do-List-Django**](https://github.com/offjune/To-Do-List-Django) – Aplicação para gerenciamento de tarefas usando Django
 - **Alinyo-chatbot** *(Privado)* – Chatbot inteligente com Python e IA
 
