@@ -1,50 +1,46 @@
-<h1 align="center">👋 Oi, eu sou a June Silva</h1>
-<h3 align="center">💻 Autodidata em programação • Futuro cientista de dados</h3>
+<h1 align="center">👋 Hi, I'm June Silva</h1>
+<h3 align="center">💻 Self-Taught Programmer • Aspiring Data Scientist</h3>
 
----
+🌟 About Me
+📚 Currently mastering Python, Django, and FastAPI for backend development.
 
-### 🌟 Sobre mim
-- 📚 Atualmente estudando **Python, Django, HTML e FastAPI**
-- 🎯 Objetivo: Ampliar meu conhecimento e atuar na área de tecnologia
-- 🎓 Faculdade de Ciência da Computação prevista para **2026**
-- 🧠 Aprendendo de forma **autodidata**
-- 🚀 Sempre buscando criar algo inovador
+🎯 Goal: To leverage my skills in a challenging role within the tech industry.
 
----
+🎓 Future Computer Science undergraduate, planning to begin my studies in 2026.
 
-### 🛠️ Tecnologias e Ferramentas
+🧠 A lifelong learner, passionate about solving complex problems with code.
+
+🚀 Passionate about building innovative solutions from the ground up.
+
+🛠️ Tech Stack & Tools
 <div align="center" style="background-color:#0d1117; padding: 10px; border-radius: 10px;">
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Django" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="FastAPI" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+<img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img alt="Django" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+<img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img alt="FastAPI" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
 </div>
 
----
+📌 Featured Projects
+Alinyo Prototype - An AI assistant prototype (Python/Gemini) for a larger project focused on interactive and personalized schedule generation.
 
-### 📌 Projetos em Destaque
-- [**StudMor**](https://github.com/offjune/StudMor) - Aplicação em Python com interface gráfica para baixar, converter e transcrever áudio de vídeos do YouTube com Whisper.
-- [**To-Do-List-Django**](https://github.com/offjune/To-Do-List-Django) – Aplicação para gerenciamento de tarefas usando Django
-- **Alinyo-chatbot** *(Privado)* – Chatbot inteligente com Python e IA
+StudMor - A Python GUI application to download, convert, and transcribe YouTube video audio using OpenAI's Whisper.
 
----
+To-Do-List Django – A full-featured task management web application built with Django.
 
-### 📊 Estatísticas do GitHub
+Alinyo-chatbot (Private) – The original intelligent chatbot (Python/AI) that inspired the Alinyo prototype.
+
+📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=offjune&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offjune&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=offjune&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offjune&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/>
 </div>
 
----
-
-### 🌐 Conecte-se comigo
+🌐 Connect with Me
 <div align="center">
-  <a href="https://instagram.com/fepsj"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.gg/GcetQJcERs"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"></a>
-  <a href="mailto:devjunesilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/june-silva"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/fepsj"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"></a>
+<a href="https://discord.gg/GcetQJcERs"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"></a>
+<a href="mailto:devjunesilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/june-silva"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </div>
 
----
-
-⭐ _"Codar é transformar café em código e bugs em aprendizado."_ ☕
+⭐ "Turning coffee into code and bugs into wisdom." ☕
