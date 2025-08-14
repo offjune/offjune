@@ -14,10 +14,12 @@
 
 ### 🛠️ Tech Stack & Tools
 <div align="center" style="background-color:#0d1117; padding: 10px; border-radius: 10px;">
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Django" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="FastAPI" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Django" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img alt="FastAPI" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="OpenAI" height="40" src="https://cdn.simpleicons.org/openai/412991">
+  <img alt="Gemini" height="40" src="https://cdn.simpleicons.org/googlegemini/8E77D8">
 </div>
 
 ---
