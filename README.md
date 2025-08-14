@@ -25,7 +25,6 @@
 ### 📌 Featured Projects
 - [**Alinyo Prototype**](https://github.com/offjune/Alinyo_Prototype) - An AI assistant prototype (Python/Gemini) for a larger project focused on interactive and personalized schedule generation.
 - [**StudMor**](https://github.com/offjune/StudMor) - A Python GUI application to download, convert, and transcribe YouTube video audio using OpenAI's Whisper.
-- [**To-Do-List Django**](https://github.com/offjune/To-Do-List-Django) – A full-featured task management web application built with Django.
 - **Alinyo-chatbot** *(Private)* – The original intelligent chatbot (Python/AI) that inspired the Alinyo prototype.
 
 ---
