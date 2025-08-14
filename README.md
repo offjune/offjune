@@ -2,6 +2,7 @@
 <h3 align="center">💻 Self-Taught Programmer • Aspiring Data Scientist</h3>
 
 🌟 About Me
+
 📚 Currently mastering Python, Django, and FastAPI for backend development.
 
 🎯 Goal: To leverage my skills in a challenging role within the tech industry.
@@ -13,6 +14,7 @@
 🚀 Passionate about building innovative solutions from the ground up.
 
 🛠️ Tech Stack & Tools
+
 <div align="center" style="background-color:#0d1117; padding: 10px; border-radius: 10px;">
 <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img alt="Django" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
@@ -21,21 +23,24 @@
 </div>
 
 📌 Featured Projects
-Alinyo Prototype - An AI assistant prototype (Python/Gemini) for a larger project focused on interactive and personalized schedule generation.
 
-StudMor - A Python GUI application to download, convert, and transcribe YouTube video audio using OpenAI's Whisper.
+**Alinyo Prototype** - An AI assistant prototype (Python/Gemini) for a larger project focused on interactive and personalized schedule generation.
 
-To-Do-List Django – A full-featured task management web application built with Django.
+**StudMor** - A Python GUI application to download, convert, and transcribe YouTube video audio using OpenAI's Whisper.
 
-Alinyo-chatbot (Private) – The original intelligent chatbot (Python/AI) that inspired the Alinyo prototype.
+**To-Do-List Django** – A full-featured task management web application built with Django.
+
+**Alinyo-chatbot** *(Private)* – The original intelligent chatbot (Python/AI) that inspired the Alinyo prototype.
 
 📊 GitHub Stats
+
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=offjune&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offjune&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/>
 </div>
 
 🌐 Connect with Me
+
 <div align="center">
 <a href="https://instagram.com/fepsj"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"></a>
 <a href="https://discord.gg/GcetQJcERs"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"></a>
