@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me
-- 📚 Currently mastering **Python, APIRESTful, IA API Integration** for backend development.
+- 📚 Currently mastering **Python, API RESTful, IA API Integration** for backend development.
 - 🎯 Goal: To leverage my skills in a challenging role within the tech industry.
 - 🎓 Future Computer Science undergraduate, planning to begin my studies in **2026**.
 - 🧠 A lifelong learner, passionate about solving complex problems with code.
