@@ -26,6 +26,7 @@
 
 ### 📌 Featured Projects
 - [**Alinyo Prototype**](https://github.com/offjune/Alinyo_Prototype) - An AI assistant prototype (Python/Gemini) for a larger project focused on interactive and personalized schedule generation.
+- [**Verto Arc**](https://github.com/offjune/Verto-Arc) - An AI tool designed to act as a career mentor, helping professionals optimize their resumes for specific job openings.
 - [**StudMor**](https://github.com/offjune/StudMor) - A Python GUI application to download, convert, and transcribe YouTube video audio using OpenAI's Whisper.
 - **Alinyo-chatbot** *(Private)* – The original intelligent chatbot (Python/AI) that inspired the Alinyo prototype.
 
