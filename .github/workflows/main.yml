@@ -9,23 +9,30 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-    
-    steps:
-      - uses: actions/checkout@v4
+      contents: write 
 
-      - uses: Platane/snk@v3
+    steps:
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+
+      - name: Generate Snake Files
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.svg?color_snake=blue&color_dots=#bfd6f6
       
-      - name: Push generated files
-        uses: ad-m/github-push-action@master
+
+      - name: List generated files
+        run: ls -R
+
+
+      - name: Commit and Push new files
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "feat: ✨ Generate and commit snake animation files"
           branch: main
-          directory: dist
-          force: true
+          file_pattern: dist/*.svg
