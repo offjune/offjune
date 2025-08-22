@@ -56,7 +56,7 @@
 
 <div align="center">
   <h2>🐍 Minha Atividade no GitHub</h2>
-  <img src="https://github.com/offjune/offjune/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="dist/github-contribution-grid-snake.svg" alt="snake animation">
 </div>
 
 <p align="center">
